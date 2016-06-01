@@ -66,7 +66,7 @@ THE SOFTWARE.
 
         typedef void prog_void;
         typedef char prog_char;
-        typedef unsigned char prog_uchar;
+        //typedef unsigned char prog_uchar;
         typedef int8_t prog_int8_t;
         typedef uint8_t prog_uint8_t;
         typedef int16_t prog_int16_t;
